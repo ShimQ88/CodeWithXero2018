@@ -57,6 +57,7 @@
 * Miles Wan
 * Chris Macdonald
 * Cameron Skyler Lind
+* Kyuwon Shim(Q)
 
 ## Vic Uni Students
 
